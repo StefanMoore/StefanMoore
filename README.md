@@ -10,7 +10,7 @@
     - Git
     - Cloud Security
     - DevOp
-2. 🛠 Following that, I'll be **refreshing** my *AWS Cloud Practitioner and Solutions Architect - Associate* knowledge.
+2. 👨🏾‍🎓 Following that, I'll be **refreshing** my *AWS Cloud Practitioner and Solutions Architect - Associate* knowledge.
 
 3. 🤔 I’ll need help with understanding how all invested parties come together and ***create a cloud solution.***
 4. 👯 I’m looking to collaborate on projects that will help me validate my skills as I journey towards becoming a cloud professional.
