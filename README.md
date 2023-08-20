@@ -9,7 +9,7 @@
     - Networking
     - Git
     - Cloud Security
-    - DevOp
+    - DevOps
 2. 👨🏾‍🎓 Following that, I'll be **refreshing** my *AWS Cloud Practitioner and Solutions Architect - Associate* knowledge.
 
 3. 🤔 I’ll need help with understanding how all invested parties come together and ***create a cloud solution.***
