@@ -12,7 +12,7 @@
     - DevOp
 2. 🛠 Following that, I'll be **refreshing** my *AWS Cloud Practitioner and Solutions Architect - Associate* knowledge.
 
-3. 🤔 I’ll need help with ~~looking for my mind~~ understanding how all invested parties come together and ***create a cloud solution.***
+3. 🤔 I’ll need help with understanding how all invested parties come together and ***create a cloud solution.***
 4. 👯 I’m looking to collaborate on projects that will help me validate my skills as I journey towards becoming a cloud professional.
 5. 💬 Ask me about what kind of cloud professional do **"I"** want to be?
 6. 💡 Follow my progress on [GitHub Projects](https://github.com/StefanMoore?tab=projects)
