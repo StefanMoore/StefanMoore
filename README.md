@@ -18,4 +18,8 @@
 6. 💡 Follow my progress on [GitHub Projects](https://github.com/StefanMoore?tab=projects)
 7. ⚡ Fun fact: *The only thing that's for sure is the never that you'll never know!*
 
+Connect with me:
+----
+[![Linked In](https://img.shields.io/badge/About_Me_At_LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stefandmoore) [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:mr_moore@outlook.com)
+
 <img src="https://github-readme-stats.vercel.app/api?username=stefanmoore&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
