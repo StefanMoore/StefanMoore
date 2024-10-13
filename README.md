@@ -5,7 +5,7 @@
 
 ### About Me
 ----
-- Employed as a material expeditor (*monitoring and facilitating the flow of materials needed for production*) looking to make a career transtion into cloud computing. 
+- What I am is a material expeditor (*monitoring and facilitating the flow of materials needed for production*) looking to make a career transtion into cloud computing. 
 - Possess the AWS Certified Cloud Practitioner and Solutions Architect – Associate certifications.
 - A passionate Cloud Engineer and a good teammate/leader who can learn and adapt quickly.
 - Looking for a postion in the cloud industry.
