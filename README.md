@@ -1,18 +1,21 @@
 ![Black Gradient Minimalist Pre-Cloud Banner](https://github.com/StefanMoore/StefanMoore/assets/53956575/3dd349bc-6b34-4cfc-a32e-c391bd363f6c)
 
 > [!NOTE]
-> I am not a programmer. Nor, I do not have an understanding of most of the code within this repository. The goal for me is to be confident using the technologies that I am learning (Docker, Terraform, Python, Linux/Bash, Git). This repository will contain the exercises from Udemy to reinforce the concepts that I have learned.
+> I am not a programmer. Nor, do I have an understanding of most of the code within this repository. The goal for me is to be confident using the technologies that I am learning (Docker, Terraform, Python, Linux/Bash, Git) in a cloud environment. This repository will contain the exercises from Udemy to reinforce the concepts that I have learned.
 
 ### About Me
 ----
-What I am is a material expeditor (*monitoring and facilitating the flow of materials needed for production*) making a career transtion into cloud computing. I currently possess the AWS Certified Cloud Practitioner and Solutions Architect – Associate certifications.
+- What I am is a material expeditor (*monitoring and facilitating the flow of materials needed for production*) looking to make a career transtion into cloud computing. 
+- Possess the AWS Certified Cloud Practitioner and Solutions Architect – Associate certifications.
+- A passionate Cloud Engineer and a good teammate/leader who can learn and adapt quickly.
 
-## Let's Connect
+### Let's Connect
 ----
-I'm looking to connect with cloud professionals, mentors, and potential collaborators to get my start and grow my career in the cloud.
+- 👯 I’m looking for a postion in software engineer or developer relations engineer.
 
-[![Linked In](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stefandmoore)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stefandmoore)
+[![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=plastic&logo=dev.to&logoColor=white)](https://dev.to/stefanmoore)
+[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=plastic&logo=microsoft-outlook&logoColor=white)](mailto:stefan.programming@outlook.com)
 
-## My GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=stefanmoore&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+### 👀 Check Out My Repos ⬇️
+----
