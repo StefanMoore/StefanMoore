@@ -1,18 +1,28 @@
-![Black Gradient Minimalist Pre-Cloud Banner](https://github.com/StefanMoore/StefanMoore/assets/53956575/3dd349bc-6b34-4cfc-a32e-c391bd363f6c)
+<h1 align="center">Hi 👋, I'm Stefan</h1>
+<h3 align="center">Aspiring AWS Certified Cloud Practitioner actively beginning a career in AWS Cloud technologies.</h3>
 
-> [!NOTE]
-> I am not a programmer. Nor, do I have an understanding of most of the code within this repository. The goal for me is to be confident using the technologies that I am learning (Docker, Terraform, Python, Linux/Bash, Git) in a cloud environment. This repository will contain the exercises from Udemy to reinforce the concepts that I have learned.
+🔭 I’m currently working on developing AWS skills, building a portfolio, and working towards AWS certifications.
 
-### About Me
-----
-- What I am is a material expeditor (*monitoring and facilitating the flow of materials needed for production*) looking to make a career transtion into cloud computing. 
-- Possess the AWS Certified Cloud Practitioner and Solutions Architect – Associate certifications.
-- A passionate Cloud Engineer and a good teammate/leader who can learn and adapt quickly.
-- Looking for a postion in the cloud industry.
+🌱 I’m currently learning best practices for deploying and managing cloud applications.
 
-### Let's Connect
-----
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stefandmoore) [![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=plastic&logo=dev.to&logoColor=white)](https://dev.to/stefanmoore) [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=plastic&logo=microsoft-outlook&logoColor=white)](mailto:stefan.programming@outlook.com)
+👯 I’m looking to collaborate on beginner & intermediate projects that will help me understand how the wide range of AWS services fit together.
 
-### 👀 Check Out My Repos ⬇️
-----
+🤝 I’m looking for help with writing a README to showcase my skills and blog post about each project.
+
+💬 Ask me about what I’ve learned, the challenges I faced, and how I solved them and any enhancements I plan to make in the future.
+
+📫 How to reach me **stefan.programming@outlook.com**
+
+📄 Digital Badges [Credly](https://www.credly.com/users/stefanmoore)
+
+⚡ Fun fact **people really don't fold pizza**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/stefanmoore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="stefanmoore" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=stefanmoore&label=Profile%20views&color=0e75b6&style=flat" alt="stefanmoore" /> </p>
